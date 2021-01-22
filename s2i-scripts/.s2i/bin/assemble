@@ -23,7 +23,7 @@ echo "Installing application source"
 cp -Rf /tmp/src/*.html ./
 DATE=`date "+%F"`
 echo "creating info page"
-echo "page build on $DATE" >> ./info.html
+echo "page build on $DATE by Meera Sundareshan" >> ./info.html
 
 ######## CUSTOMIZATION ENDS HERE ############
 
